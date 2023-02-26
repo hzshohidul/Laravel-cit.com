@@ -1,0 +1,9 @@
+http://127.0.0.1:8000/login
+Gmail : admin@gmail.com
+Pass  : Pa$$w0rd!
+
+Gmail : editor@gmail.com
+Pass  : Pa$$w0rd!
+
+Gmail : modarator@gmail.com
+Pass  : Pa$$w0rd!
